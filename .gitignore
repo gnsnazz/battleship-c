@@ -6,4 +6,7 @@
 build/
 /Debug
 /idea
+.idea
 .settings
+.project
+.cproject
